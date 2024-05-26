@@ -12,7 +12,7 @@ A website created using python with django where user can upload and download do
 
 # Prerequisites
 
-- Python 3.0
+- Python 3.8 higher
 - Django 3.5 or later
 - SQLite (default database for Django)
 
